@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es2021",
     "module": "commonjs",
-    "rootDir": "./src",
+    "rootDirs": ["./src", "./tests"],
     "outDir": "./dist",
     "pretty": true,
     "esModuleInterop": true,
