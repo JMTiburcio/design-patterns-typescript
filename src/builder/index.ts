@@ -1,4 +1,4 @@
-class Product {
+export class Product {
   propertyA?: string;
   propertyB?: string;
   propertyC?: string;
