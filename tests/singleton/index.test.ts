@@ -1,4 +1,4 @@
-import { Singleton } from "../../src/singleton";
+import { Singleton } from "../creational/singleton";
 
 describe("Singleton", () => {
   it("should have only one instance", () => {

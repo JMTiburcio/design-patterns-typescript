@@ -1,4 +1,4 @@
-import { Builder, Director } from "../../src/builder";
+import { Builder, Director } from "../creational/builder";
 
 describe("Builder", () => {
   it("should build a product with all properties", () => {
